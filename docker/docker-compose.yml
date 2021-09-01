@@ -1,0 +1,12 @@
+version: '3'
+services:
+    nginx:
+        build:
+            context: .
+            dockerfile: Dockerfile
+        volumes:
+           - /mnt/hd1/sawtellellc.github.io:/var/www-data
+           - /mnt/hd1/sawtellellc.github.io/index.html:/etc/nginx/html/index.html
+        ports:
+            - 8000:80
+            

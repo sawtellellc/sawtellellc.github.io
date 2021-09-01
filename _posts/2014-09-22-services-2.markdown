@@ -1,0 +1,28 @@
+---
+layout: default
+img: blank.png
+blank: blank.png
+img_head: fe4d6bde_35_head.png
+img_neck: ff9a5506_279_neck.png
+img_chest: fffeb86d_67_chest.png
+img_abdomen: fffeb86d_9_abdomen.png
+img_pelvis: bbdd17ae_253_pelvis.png
+img_thigh: d3a976a5_56_thigh.png
+img_crus: d3a976a5_280_crus.png
+img_foot: 92b9f635_254_foot.png
+ct_page: true
+category: Services
+title: Body Parts Detection for CT Axial Scans
+description: |
+---
+
+  Our API takes in a CT scan and provides the following anatomical information:
+
+  + the height of the each detected body parts (head,neck,chest,abdomen,pelvis,thigh).
+
+  + body part completeness for chest, abdomen and pelvis.
+
+  The detected body parts can be used as tags to catalog in-house images and used for data retrieval. This anatomical information may also serve to quality check for completeness of body parts including chest, abdomen and pelvis (CAP).  Completeness of CAP is particularly useful for oncology related workflows.
+  
+  A coronal plane from a sample CT scan and its corresponding JSON output from the API is provided below:
+

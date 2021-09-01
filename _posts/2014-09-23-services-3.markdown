@@ -1,0 +1,24 @@
+---
+layout: default
+img: coronal.png
+blank: blank.png
+category: Services
+title: sample JSON output
+description: |
+---
+
+  ```
+  {
+    "body_parts":{
+      "head":{"height":1.25,"unit":"mm"},
+      "neck":{"height":35.0,"unit":"mm"},
+      "chest":{"height":207.5,"unit":"mm"},
+      "abdomen":{"height":57.5,"unit":"mm"},
+      "pelvis":{"height":0.0,"unit":"mm"},
+      "thigh":{"height":0.0,"unit":"mm"}
+    },
+    "cap_completeness":{"chest":true,"abdomen":false,"pelvis":false}
+  }
+  ```
+
+For more information about this API, check out the [API Documentation](http://sawtellellc.github.io/#contact), as well as the [technical paper](http://sawtellellc.github.io/#contact).

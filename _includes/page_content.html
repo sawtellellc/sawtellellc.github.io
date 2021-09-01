@@ -1,0 +1,97 @@
+<section id="services">
+<!-- Page Content -->
+{% for post in site.posts reversed %}
+  {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+    {% if thecycle == 'odd' %}
+    <div class="content-section-a">
+
+        <div class="container">
+
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-4 col-lg-offset-2 col-sm-6">
+                    <img src="img/services/{{ post.blank }}" alt="" height=80px>
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="" height=224px>
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-a -->
+    {% else %}
+
+    <div class="content-section-b">
+
+        <div class="container">
+
+            <div class="row align-items-center">
+                <div class="col-lg-6 col-lg-offset-1 col-sm-push-6  col-sm-6">
+                    <hr class="section-heading-spacer">
+                    <div class="clearfix"></div>
+                    <h2 class="section-heading">{{ post.title }}</h2>
+                    <div class="lead">{{ post.content }}</div>
+                </div>
+                <div class="col-lg-4 col-sm-pull-6 col-sm-6">
+                  
+                  {% if post.ct_page %}
+                    <img src="img/services/{{ post.blank }}" alt="" height=150px>
+                    <table>
+                    <tr>
+                        <td>
+                            <img src="img/services/{{ post.img_head }}" alt="" height=100px>
+                            <br>head
+                        </td>
+                        <td>
+                            <img src="img/services/{{ post.img_neck }}" alt="" height=100px>
+                            <br>neck
+                        </td>
+                        <td>
+                            <img src="img/services/{{ post.img_chest }}" alt="" height=100px>
+                            <br>chest
+                        </td>
+                        <td>
+                            <img src="img/services/{{ post.img_abdomen }}" alt="" height=100px>
+                            <br>abdomen
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <img src="img/services/{{ post.img_pelvis }}" alt="" height=100px>
+                            <br>pelvis
+                        </td>
+                        <td>
+                            <img src="img/services/{{ post.img_thigh }}" alt="" height=100px>
+                            <br>thigh
+                        </td>
+                        <td>
+                            <img src="img/services/{{ post.img_crus }}" alt="" height=100px>
+                            <br>crus
+                        </td>
+                        <td>
+                            <img src="img/services/{{ post.img_foot }}" alt="" height=100px>
+                            <br>foot
+                        </td>
+                    </tr>
+
+                    </table>
+                  {% else %}
+                    <img class="img-responsive" src="img/services/{{ post.img }}" alt="">
+                  {% endif %}
+                </div>
+            </div>
+
+        </div>
+        <!-- /.container -->
+
+    </div>
+    <!-- /.content-section-b -->
+    {% endif %}
+{% endfor %}
+</section>
