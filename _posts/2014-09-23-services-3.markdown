@@ -21,4 +21,8 @@ description: |
   }
   ```
 
-For more information about this API, check out the [API Documentation](http://sawtellellc.github.io/#contact), as well as the [technical paper](http://sawtellellc.github.io/#contact).
+API Documentation and technical paper will be provided upon service release.
+
+[//]: # For more information about this API, check out the [API Documentation](http://sawtellellc.github.io/#contact), as well as the [technical paper](http://sawtellellc.github.io/#contact).
+
+
