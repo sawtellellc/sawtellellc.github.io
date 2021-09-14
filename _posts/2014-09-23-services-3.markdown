@@ -15,7 +15,7 @@ description: |
       "chest":{"height":207.5,"unit":"mm"},
       "abdomen":{"height":57.5,"unit":"mm"},
       "pelvis":{"height":0.0,"unit":"mm"},
-      "thigh":{"height":0.0,"unit":"mm"}
+      "lower_limb":{"height":0.0,"unit":"mm"}
     },
     "cap_completeness":{"chest":true,"abdomen":false,"pelvis":false}
   }
