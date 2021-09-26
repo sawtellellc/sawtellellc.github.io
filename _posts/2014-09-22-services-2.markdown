@@ -6,7 +6,7 @@ img_head: 05659276_11_head.png
 img_neck: fe4d6bde_57_neck.png.png
 img_chest: fffeb86d_67_chest.png
 img_abdomen: fffeb86d_9_abdomen.png
-img_pelvis: bbdd17ae_253_pelvis.png
+img_pelvis: fe4d6bde_267_pelvis.png
 img_thigh: d3a976a5_56_thigh.png
 img_crus: d3a976a5_280_crus.png
 img_foot: 92b9f635_254_foot.png
