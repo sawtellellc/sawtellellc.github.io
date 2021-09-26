@@ -2,7 +2,7 @@
 layout: default
 img: blank.png
 blank: blank.png
-img_head: 5659276_11_head.png
+img_head: 05659276_11_head.png
 img_neck: fe4d6bde_57_neck.png.png
 img_chest: fffeb86d_67_chest.png
 img_abdomen: fffeb86d_9_abdomen.png
