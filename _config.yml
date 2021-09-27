@@ -27,10 +27,13 @@ permalink: pretty
 
 social:
   - title: github
+    icon: github
     url: https://github.com/sawtellellc
   - title: twitter
+    icon: twitter
     url: https://twitter.com/sawtellellc
-  - title: info-circle
+  - title: consulting
+    icon: info-circle
     url: https://sawtellellc.square.site
   #- title: youtube
   #  url: https://www.youtube.com/channel/UCuiTlP-4N47VszfT5kHeGpQ/featured
