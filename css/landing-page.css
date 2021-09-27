@@ -46,8 +46,6 @@ h6 {
     margin: 0;
     /* text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
     font-size: 5em;
-    color: #202020;
-    font-family: "Georama",sans-serif;
 }
 
 .intro-divider {
@@ -58,9 +56,15 @@ h6 {
 
 .intro-message > h3 {
     color: #202020;
-    font-family: "Georama",sans-serif;
+    /* font-family: "Georama",sans-serif; */
     /* text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
 }
+
+.sawtellefont {
+    color: #353535;
+    font-family: "Georama",sans-serif;
+}
+
 
 @media(max-width:767px) {
     .intro-message {
