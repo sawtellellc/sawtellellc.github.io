@@ -60,11 +60,17 @@ h6 {
     /* text-shadow: 2px 2px 3px rgba(0,0,0,0.6);*/
 }
 
-.sawtellefont {
+.sawtelle-font {
     color: #353535;
     font-family: "Georama",sans-serif;
 }
 
+.sawtelle-font-header {
+    color: #353535;
+    font-family: "Georama",sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+}
 
 @media(max-width:767px) {
     .intro-message {
