@@ -10,10 +10,10 @@ description: |
   ```
   {
     "body_parts":{
-      "head":{"height":1.25,"unit":"mm"},
-      "neck":{"height":35.0,"unit":"mm"},
-      "chest":{"height":207.5,"unit":"mm"},
-      "abdomen":{"height":57.5,"unit":"mm"},
+      "head":{"height":0.0,"unit":"mm"},
+      "neck":{"height":36.2,"unit":"mm"},
+      "chest":{"height":207.9,"unit":"mm"},
+      "abdomen":{"height":57.2,"unit":"mm"},
       "pelvis":{"height":0.0,"unit":"mm"},
       "lower_limb":{"height":0.0,"unit":"mm"}
     },
