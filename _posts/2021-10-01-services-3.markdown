@@ -21,7 +21,7 @@ description: |
   }
   ```
 
-For more information about this API, check out the [API Documentation](https://github.com/sawtellellc/apis/tree/main/ct-scan-body-part-detector/doc#api-lnk), as well as the [technical paper](https://github.com/sawtellellc/apis/tree/main/ct-scan-body-part-detector/docs#paper-lnk).
+For more information about this API, check out the [API Documentation](https://github.com/sawtellellc/apis/tree/main/ct-scan-body-part-detector/docs#api-lnk), as well as the [technical paper](https://github.com/sawtellellc/apis/tree/main/ct-scan-body-part-detector/docs#paper-lnk).
 
 [//]: # this is a comment
 
