@@ -12,7 +12,7 @@ description: > # "Write an awesome description for your new site here.
   description.
 copyright: "Copyright &copy; 2021 SAWTELLE LLC. All Rights Reserved."
 credits: 'design credits: <a href="https://github.com/swcool/landing-page-theme">github.com/swcool</a>.'
-disclaimer: "*DISCLAIMER Services (APIs) provided by SAWTELLE LLC are intended for research and development purposes, and are not designed nor approved for clinical diagnostic use. Sawtelle LLC is not liable for any consequential damages that result from the use of these services."
+disclaimer: "*CAUTION -- For Investigational Use Only. The performance characteristics of this product have not been established. Sawtelle LLC is not liable for any consequential damages that result from the use of these services."
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
