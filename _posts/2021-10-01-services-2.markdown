@@ -18,7 +18,7 @@ description: |
 
   Our API takes in a CT scan and provides the following anatomical information:
 
-  + the height of the each detected body parts (head,neck,chest,abdomen,pelvis,thigh).
+  + the height of the each detected body parts (head,neck,chest,abdomen,pelvis,lower_limb).
 
   + body part completeness for chest, abdomen and pelvis.
 
