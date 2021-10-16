@@ -2,14 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: https://sawtellellc.github.io/
 title: sawtelle
-email: your-email@domain.com
-author: Your Name
+email: ""
+author: sawtelle
 description: > # "Write an awesome description for your new site here. 
-  You can edit this line in _config.yml. It will appear in your document 
-  head meta (for Google search results) and in your feed.xml site 
-  description.
+  Creating scalable, easy to use, machine learning & computer vision solutions one API call at time.
 copyright: "Copyright &copy; 2021 SAWTELLE LLC. All Rights Reserved."
 credits: 'design credits: <a href="https://github.com/swcool/landing-page-theme">github.com/swcool</a>.'
 disclaimer: "*CAUTION -- For Investigational Use Only. The performance characteristics of this product have not been established. Sawtelle LLC is not liable for any consequential damages that result from the use of these services."
