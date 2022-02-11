@@ -3,9 +3,9 @@ layout: default
 img: blank.png
 blank: blank.png
 category: Services
-title: Why Use Computer Vision API to Detect Body Parts in Medical Imaging?
+title: Why Use Computer Vision API to Perform Anatomy-specific Classification of Medical Images?
 description: |
 ---
 
-Medical image processing pipelines can be at times complex and resource intensive.  One basic yet critical step is selecting the scan of interest based on presence of anatomy.  When there are thousands and millions of images to analyze, manually selecting the scans of interest becomes very resource intensive.  To tackle this bottleneck, we created our flagship Computer Vision API which identifies human body parts in computed tomography (CT) scans - <a href="https://aws.amazon.com/marketplace/pp/prodview-wfdmcre64w564">available now in AWS Marketplace</a>. 
 
+Medical image processing pipelines can be at times complex and resource intensive.  One basic yet critical step is selecting the scan of interest based on presence of anatomy.  When there are thousands and millions of images to analyze, manually selecting the scans of interest becomes very resource intensive.  To tackle this bottleneck, we created our flagship Computer Vision API which identifies human body parts in computed tomography (CT) scans - <a href="https://aws.amazon.com/marketplace/pp/prodview-wfdmcre64w564">available now in AWS Marketplace</a>.

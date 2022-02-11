@@ -23,7 +23,16 @@ description: |
 
 To use this API, subscribe via [AWS Marketplace](https://aws.amazon.com/marketplace/pp/prodview-wfdmcre64w564).  For more information, check out the [API documentation](https://github.com/sawtellellc/apis/tree/main/ct-scan-body-part-detector/docs#api-lnk), as well as the [technical paper](https://github.com/sawtellellc/apis/tree/main/ct-scan-body-part-detector/docs#paper-lnk).
 
-CAUTION -- For Investigational Use Only. The performance characteristics of this product have not been established.
+Several related academic papers are listed below.
+
+Roth, Holger R., et al. "Anatomy-specific classification of medical images using deep convolutional nets." 2015 IEEE 12th international symposium on biomedical imaging (ISBI). IEEE, 2015. https://arxiv.org/abs/1504.04003
+
+Sugimori, Hiroyuki. "Classification of computed tomography images in different slice positions using deep learning." Journal of healthcare engineering 2018 (2018). https://pubmed.ncbi.nlm.nih.gov/30123439
+
+Robert, J. Harris, et al. "High-throughput image labeling and quality control for clinical trials using machine learning." (2018). https://www.ijclinicaltrials.com/index.php/ijct/article/view/284/165
+
+
+DISCLAIMER -- For Investigational Use Only. The performance characteristics of this product have not been established.
 
 [//]: # this is a comment
 
