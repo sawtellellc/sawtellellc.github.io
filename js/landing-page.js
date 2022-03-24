@@ -29,3 +29,7 @@ $('div.modal').on('show.bs.modal', function() {
 		}
 	}
 });
+
+$(document).ready(function() {
+    $(document).scrollTop(500);
+});
