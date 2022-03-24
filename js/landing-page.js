@@ -31,5 +31,5 @@ $('div.modal').on('show.bs.modal', function() {
 });
 
 $(document).ready(function() {
-    $(document).getElementById("services").scrollTo({ behavior: "smooth", top: 0 });
+    document.getElementById("services").scrollTo({ behavior: "smooth", top: 0 });
 });
